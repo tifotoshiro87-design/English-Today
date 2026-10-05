@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-05 19:16",
+ "fetched_at": "2026-10-06 01:15",
  "channels": [
   {
    "key": "unleashed",
@@ -7,16 +7,16 @@
    "id": "UCKRp9QaI8QAzKUWp8nU0uhQ",
    "items": [
     {
+     "title": "Learn English with Podcast | Short Stories in Easy English | Listening Practice | Shadowing",
+     "url": "https://www.youtube.com/watch?v=W3qchLQ-h10",
+     "thumb": "https://i.ytimg.com/vi/W3qchLQ-h10/mqdefault.jpg",
+     "date": "2026-10-05"
+    },
+    {
      "title": "Learn English with Easy Podcasts | Slow English for Listening, Shadowing & Speaking Practice",
      "url": "https://www.youtube.com/watch?v=Yszr3LITWkU",
      "thumb": "https://i.ytimg.com/vi/Yszr3LITWkU/mqdefault.jpg",
      "date": "2026-10-04"
-    },
-    {
-     "title": "Learn English with Podcast | Easy Stories | Slow English Podcast for Listening, Shadowing & Speaking",
-     "url": "https://www.youtube.com/watch?v=nI3Rjv5GnGU",
-     "thumb": "https://i.ytimg.com/vi/nI3Rjv5GnGU/mqdefault.jpg",
-     "date": "2026-10-03"
     }
    ],
    "error": null
