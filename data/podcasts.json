@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-06 01:15",
+ "fetched_at": "2026-10-06 07:18",
  "channels": [
   {
    "key": "unleashed",
@@ -47,16 +47,16 @@
    "id": "UCsyiT4GvZMaWzUJtNLsXLjQ",
    "items": [
     {
+     "title": "English Listening Practice B1–B2 | Learn English Through Conversation About Motivation",
+     "url": "https://www.youtube.com/watch?v=uIizRWx2nbA",
+     "thumb": "https://i.ytimg.com/vi/uIizRWx2nbA/mqdefault.jpg",
+     "date": "2026-10-05"
+    },
+    {
      "title": "40-Minute English Listening Practice | Learn English Through Real Conversations (B1–B2)",
      "url": "https://www.youtube.com/watch?v=uOBleCWM-0I",
      "thumb": "https://i.ytimg.com/vi/uOBleCWM-0I/mqdefault.jpg",
      "date": "2026-10-04"
-    },
-    {
-     "title": "English Listening Practice B1–B2 | Learn English Through Real Conversations (40 Minutes)",
-     "url": "https://www.youtube.com/watch?v=01auTTK6QvE",
-     "thumb": "https://i.ytimg.com/vi/01auTTK6QvE/mqdefault.jpg",
-     "date": "2026-10-03"
     }
    ],
    "error": null
