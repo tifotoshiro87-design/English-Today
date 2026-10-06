@@ -1,0 +1,66 @@
+{
+ "goal": 500,
+ "levels": [
+  {
+   "key": "B1",
+   "badge": "B1",
+   "name": "Trung bình"
+  },
+  {
+   "key": "B2",
+   "badge": "B2",
+   "name": "Khó"
+  },
+  {
+   "key": "C1",
+   "badge": "C1",
+   "name": "Nâng cao"
+  }
+ ],
+ "topics": [
+  {
+   "n": 1,
+   "key": "SOCIAL",
+   "name": "Social (Kinh tế – Chính trị – Xã hội)"
+  },
+  {
+   "n": 2,
+   "key": "SCIENCE",
+   "name": "Science (Khoa học – Vũ trụ – Thiên nhiên – Toán học)"
+  },
+  {
+   "n": 3,
+   "key": "ENTERTAINMENT",
+   "name": "Entertainment (Văn học – Phim ảnh – Âm nhạc)"
+  },
+  {
+   "n": 4,
+   "key": "HEALTH",
+   "name": "Healthcare (Y tế)"
+  },
+  {
+   "n": 5,
+   "key": "DAILY",
+   "name": "Daily Life (Du lịch – Giáo dục – Đời sống)"
+  },
+  {
+   "n": 6,
+   "key": "SPORTS",
+   "name": "Sports (Thể thao)"
+  },
+  {
+   "n": 7,
+   "key": "PHRASES",
+   "name": "Common Phrases (Cụm từ người bản xứ hay dùng)"
+  }
+ ],
+ "files": [
+  "B1-DAILY",
+  "B1-ENTERTAINMENT",
+  "B1-HEALTH",
+  "B1-PHRASES",
+  "B1-SCIENCE",
+  "B1-SOCIAL",
+  "B1-SPORTS"
+ ]
+}
