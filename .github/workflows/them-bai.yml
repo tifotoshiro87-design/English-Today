@@ -1,0 +1,48 @@
+name: Gop bai moi
+on:
+  push:
+    paths:
+      - "inbox/*.json"
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency:
+  group: cap-nhat-du-lieu
+  cancel-in-progress: false
+jobs:
+  gop:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Gop bai moi vao data
+        run: |
+          git config user.name "bot"
+          git config user.email "bot@users.noreply.github.com"
+          shopt -s nullglob
+          bad=0
+          for f in inbox/*.json; do
+            echo "== $f"
+            if python tools/add_lessons.py "$f"; then
+              git rm -q "$f"
+              git add data CAPNHAT.md
+              git commit -q -m "them bai moi: $(basename "$f")"
+            else
+              echo "::error::File $f bi loi, da chuyen sang thu muc loi/"
+              git checkout -q -- data CAPNHAT.md
+              git clean -fdq data
+              mkdir -p loi
+              git mv -f "$f" "loi/$(date +%Y%m%d-%H%M%S)_$(basename "$f")"
+              git commit -q -m "bai loi: $(basename "$f")"
+              bad=1
+            fi
+          done
+          ok=0
+          for i in 1 2 3; do
+            if git pull -q --rebase && git push -q; then ok=1; break; fi
+            sleep 5
+          done
+          [ "$ok" = 1 ] || { echo "::error::Khong day duoc len GitHub"; exit 1; }
+          exit $bad

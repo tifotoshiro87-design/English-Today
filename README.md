@@ -9,3 +9,5 @@
 
 **Thêm bài:** `python tools/add_lessons.py bai_moi.json` (tự ghi đúng file, tự cập nhật meta + nhật ký).
 Sau đó chỉ cần đưa các file trong `data/` đã đổi lên GitHub; không cần đụng `index.html`.
+
+**Cập nhật 1 chạm:** tải `bai_moi.json` từ Claude → bấm đúp `CAPNHAT.bat`. File vào `inbox/`, GitHub Action (`.github/workflows/them-bai.yml`) tự gộp vào `data/`. Xem `HUONGDAN.md`.
