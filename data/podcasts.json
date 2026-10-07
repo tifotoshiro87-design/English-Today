@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-07 07:18",
+ "fetched_at": "2026-10-07 13:14",
  "channels": [
   {
    "key": "unleashed",
@@ -19,7 +19,7 @@
      "date": "2026-10-05"
     }
    ],
-   "error": null
+   "error": "HTTPError: HTTP Error 404: Not Found"
   },
   {
    "key": "basic",
@@ -39,7 +39,7 @@
      "date": "2026-09-08"
     }
    ],
-   "error": null
+   "error": "HTTPError: HTTP Error 404: Not Found"
   },
   {
    "key": "speakupp",
@@ -59,7 +59,7 @@
      "date": "2026-10-05"
     }
    ],
-   "error": null
+   "error": "HTTPError: HTTP Error 404: Not Found"
   }
  ]
 }
