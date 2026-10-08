@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-08 13:16",
+ "fetched_at": "2026-10-08 19:16",
  "channels": [
   {
    "key": "unleashed",
@@ -19,7 +19,7 @@
      "date": "2026-10-05"
     }
    ],
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "error": null
   },
   {
    "key": "basic",
@@ -27,19 +27,19 @@
    "id": "UC9FhkbJnrqdJNmwWbu5PLnw",
    "items": [
     {
+     "title": "Why Do Some People Fart So Much?:  Slow English Podcast for Beginners",
+     "url": "https://www.youtube.com/watch?v=kYMMXTPqBTk",
+     "thumb": "https://i.ytimg.com/vi/kYMMXTPqBTk/mqdefault.jpg",
+     "date": "2026-10-08"
+    },
+    {
      "title": "English Podcast for Beginners and Intermediate learners.  | You Understand English but Cannot Speak",
      "url": "https://www.youtube.com/watch?v=NgrQFVNAYHM",
      "thumb": "https://i.ytimg.com/vi/NgrQFVNAYHM/mqdefault.jpg",
      "date": "2026-09-09"
-    },
-    {
-     "title": "Learn English with Podcast | Easy Listening Practice | Conversation Practice | Shadowing B1 and A2",
-     "url": "https://www.youtube.com/watch?v=vZytQRqj2XA",
-     "thumb": "https://i.ytimg.com/vi/vZytQRqj2XA/mqdefault.jpg",
-     "date": "2026-09-08"
     }
    ],
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "error": null
   },
   {
    "key": "speakupp",
@@ -59,7 +59,7 @@
      "date": "2026-10-05"
     }
    ],
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "error": null
   }
  ]
 }
