@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """Them bai hoc moi vao data/. Dung: python tools/add_lessons.py bai_moi.json
 bai_moi.json = danh sach (list) cac bai, moi bai co id dang B1-SOCIAL-006, level, topic, n, ...
+Bai co them truong "replace": true thi GHI DE bai cu cung id (hoac them moi neu chua co).
 Kiem tra truoc: co loi thi KHONG ghi gi ca. Chi ghi them vao file cua dung cap-chu de,
 tu cap nhat data/meta.json va CAPNHAT.md. Khong dong vao index.html."""
 import json, sys, datetime
@@ -24,7 +25,7 @@ for l in new:
             sys.exit(f"Loi: bai {l.get('id', '?')} thieu truong '{k}'")
     if l["level"] not in levels or l["topic"] not in topics:
         sys.exit(f"Loi: bai {l['id']} co level/topic khong hop le: {l['level']}/{l['topic']}")
-    if l["id"] in have or l["id"] in seen:
+    if (l["id"] in have and not l.get("replace")) or l["id"] in seen:
         sys.exit("Loi: trung id " + l["id"])
     seen.add(l["id"])
 
@@ -33,10 +34,12 @@ for l in new:
     k = l["level"] + "-" + l["topic"]
     p = R/f"data/lessons/{k}.json"
     arr = json.load(open(p, encoding="utf-8")) if p.exists() else []
+    rep = l.pop("replace", False)
+    if rep: arr = [x for x in arr if x["id"] != l["id"]]
     arr.append(l); arr.sort(key=lambda x: x["n"])
     json.dump(arr, open(p, "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
     if k not in meta["files"]: meta["files"].append(k); meta["files"].sort()
-    touched.append(l["id"])
+    touched.append(l["id"] + (" (thay)" if rep else ""))
 json.dump(meta, open(R/"data/meta.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 tot = {}
 for f in meta["files"]:
