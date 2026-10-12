@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12 13:19",
+ "fetched_at": "2026-10-12 19:22",
  "channels": [
   {
    "key": "unleashed",
@@ -19,7 +19,7 @@
      "date": "2026-10-06"
     }
    ],
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "error": null
   },
   {
    "key": "basic",
@@ -39,7 +39,7 @@
      "date": "2026-10-08"
     }
    ],
-   "error": "HTTPError: HTTP Error 500: Internal Server Error"
+   "error": null
   },
   {
    "key": "speakupp",
@@ -53,13 +53,13 @@
      "date": "2026-10-11"
     },
     {
-     "title": "Be So Calm It Makes People Nervous | Advanced English Podcast (B1-B2)",
+     "title": "Be So Calm It Makes people Nervous | Easy English podcast B1-B2 Listening practice",
      "url": "https://www.youtube.com/watch?v=jVtPUyy2s6Y",
      "thumb": "https://i.ytimg.com/vi/jVtPUyy2s6Y/mqdefault.jpg",
      "date": "2026-10-10"
     }
    ],
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "error": null
   }
  ]
 }
