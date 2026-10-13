@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13 13:18",
+ "fetched_at": "2026-10-13 19:18",
  "channels": [
   {
    "key": "unleashed",
@@ -8,18 +8,18 @@
    "items": [
     {
      "title": "Learn English with Slow Podcasts | Easy Listening, Shadowing, Speaking & Vocabulary Practice",
+     "url": "https://www.youtube.com/watch?v=v9qWIe4qiR0",
+     "thumb": "https://i.ytimg.com/vi/v9qWIe4qiR0/mqdefault.jpg",
+     "date": "2026-10-13"
+    },
+    {
+     "title": "Learn English with Slow Podcasts | Easy Listening, Shadowing, Speaking & Vocabulary Practice",
      "url": "https://www.youtube.com/watch?v=f95-cZr_BFs",
      "thumb": "https://i.ytimg.com/vi/f95-cZr_BFs/mqdefault.jpg",
      "date": "2026-10-08"
-    },
-    {
-     "title": "Learn English with Podcast | 5 Minutes Listening Practice",
-     "url": "https://www.youtube.com/watch?v=_2eJO5bO5tw",
-     "thumb": "https://i.ytimg.com/vi/_2eJO5bO5tw/mqdefault.jpg",
-     "date": "2026-10-06"
     }
    ],
-   "error": "HTTPError: HTTP Error 500: Internal Server Error"
+   "error": null
   },
   {
    "key": "basic",
@@ -39,7 +39,7 @@
      "date": "2026-10-08"
     }
    ],
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "error": null
   },
   {
    "key": "speakupp",
@@ -47,19 +47,19 @@
    "id": "UCsyiT4GvZMaWzUJtNLsXLjQ",
    "items": [
     {
-     "title": "How to Improve Your English : Stop Your Brain Freezing When Speaking English(B1–C1)",
-     "url": "https://www.youtube.com/watch?v=JSCKganfBV0",
-     "thumb": "https://i.ytimg.com/vi/JSCKganfBV0/mqdefault.jpg",
-     "date": "2026-10-11"
+     "title": "Why You Can’t Understand Native English Speakers 🇺🇸 (And How to Fix It)",
+     "url": "https://www.youtube.com/watch?v=6Yr0574hqUw",
+     "thumb": "https://i.ytimg.com/vi/6Yr0574hqUw/mqdefault.jpg",
+     "date": "2026-10-12"
     },
     {
-     "title": "Be So Calm It Makes people Nervous | Easy English podcast B1-B2 Listening practice",
-     "url": "https://www.youtube.com/watch?v=jVtPUyy2s6Y",
-     "thumb": "https://i.ytimg.com/vi/jVtPUyy2s6Y/mqdefault.jpg",
-     "date": "2026-10-10"
+     "title": "How to Understand Fast English (Without Translating Every Word) | English Podcast(B1-B2)",
+     "url": "https://www.youtube.com/watch?v=mXbu9cwxn7k",
+     "thumb": "https://i.ytimg.com/vi/mXbu9cwxn7k/mqdefault.jpg",
+     "date": "2026-10-12"
     }
    ],
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "error": null
   }
  ]
 }
