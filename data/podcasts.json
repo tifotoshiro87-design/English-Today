@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14 07:25",
+ "fetched_at": "2026-10-14 13:27",
  "channels": [
   {
    "key": "unleashed",
@@ -39,7 +39,7 @@
      "date": "2026-10-08"
     }
    ],
-   "error": "HTTPError: HTTP Error 500: Internal Server Error"
+   "error": "HTTPError: HTTP Error 404: Not Found"
   },
   {
    "key": "speakupp",
