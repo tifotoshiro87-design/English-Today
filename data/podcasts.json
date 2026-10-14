@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14 13:27",
+ "fetched_at": "2026-10-14 19:28",
  "channels": [
   {
    "key": "unleashed",
@@ -19,7 +19,7 @@
      "date": "2026-10-08"
     }
    ],
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "error": null
   },
   {
    "key": "basic",
@@ -39,7 +39,7 @@
      "date": "2026-10-08"
     }
    ],
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "error": null
   },
   {
    "key": "speakupp",
@@ -47,19 +47,19 @@
    "id": "UCsyiT4GvZMaWzUJtNLsXLjQ",
    "items": [
     {
+     "title": "English Listening Practice (B1–B2) | 10 Stoic Lessons to Become Mentally Unbreakable",
+     "url": "https://www.youtube.com/watch?v=rPIe7oBUNJk",
+     "thumb": "https://i.ytimg.com/vi/rPIe7oBUNJk/mqdefault.jpg",
+     "date": "2026-10-13"
+    },
+    {
      "title": "Why You Can’t Understand Native English Speakers 🇺🇸 (And How to Fix It)",
      "url": "https://www.youtube.com/watch?v=6Yr0574hqUw",
      "thumb": "https://i.ytimg.com/vi/6Yr0574hqUw/mqdefault.jpg",
      "date": "2026-10-12"
-    },
-    {
-     "title": "How to Understand Fast English (Without Translating Every Word) | English Podcast(B1-B2)",
-     "url": "https://www.youtube.com/watch?v=mXbu9cwxn7k",
-     "thumb": "https://i.ytimg.com/vi/mXbu9cwxn7k/mqdefault.jpg",
-     "date": "2026-10-12"
     }
    ],
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "error": null
   }
  ]
 }
