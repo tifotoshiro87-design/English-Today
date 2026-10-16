@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16 13:26",
+ "fetched_at": "2026-10-16 19:27",
  "channels": [
   {
    "key": "unleashed",
@@ -19,7 +19,7 @@
      "date": "2026-10-14"
     }
    ],
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "error": null
   },
   {
    "key": "basic",
@@ -39,7 +39,7 @@
      "date": "2026-10-08"
     }
    ],
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "error": null
   },
   {
    "key": "speakupp",
@@ -47,19 +47,19 @@
    "id": "UCsyiT4GvZMaWzUJtNLsXLjQ",
    "items": [
     {
-     "title": "Stop Translating in Your Head! Think in English Naturally | English Podcast (B1–B2)",
-     "url": "https://www.youtube.com/watch?v=F3J9d_SrQGs",
-     "thumb": "https://i.ytimg.com/vi/F3J9d_SrQGs/mqdefault.jpg",
-     "date": "2026-10-15"
+     "title": "Why Native English Speakers Talk So Fast (And How to Understand Them) | English Podcast (B1–B2)",
+     "url": "https://www.youtube.com/watch?v=qmhIsgRE-Yg",
+     "thumb": "https://i.ytimg.com/vi/qmhIsgRE-Yg/mqdefault.jpg",
+     "date": "2026-10-16"
     },
     {
-     "title": "You Understand English but Can't Speak? Here's How to Fix It | English Podcast (B1–B2)",
-     "url": "https://www.youtube.com/watch?v=WK6t0PG-_Nc",
-     "thumb": "https://i.ytimg.com/vi/WK6t0PG-_Nc/mqdefault.jpg",
-     "date": "2026-10-14"
+     "title": "Learn How  to Think in English Naturally | English Podcast (B1-B2)",
+     "url": "https://www.youtube.com/watch?v=4rwpvTx3Vcw",
+     "thumb": "https://i.ytimg.com/vi/4rwpvTx3Vcw/mqdefault.jpg",
+     "date": "2026-10-16"
     }
    ],
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "error": null
   }
  ]
 }
