@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17 13:23",
+ "fetched_at": "2026-10-17 19:20",
  "channels": [
   {
    "key": "unleashed",
@@ -19,7 +19,7 @@
      "date": "2026-10-14"
     }
    ],
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "error": null
   },
   {
    "key": "basic",
@@ -39,7 +39,7 @@
      "date": "2026-10-08"
     }
    ],
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "error": null
   },
   {
    "key": "speakupp",
@@ -47,19 +47,19 @@
    "id": "UCsyiT4GvZMaWzUJtNLsXLjQ",
    "items": [
     {
+     "title": "Scared to Speak English? The Hidden Reason You Freeze (And How to Fix It) | English podcast (B1-B2)",
+     "url": "https://www.youtube.com/watch?v=D2mXnKZBTYI",
+     "thumb": "https://i.ytimg.com/vi/D2mXnKZBTYI/mqdefault.jpg",
+     "date": "2026-10-17"
+    },
+    {
      "title": "You Know the Words, But Can't Hear Them! | English Listening Practice (B1–B2)",
      "url": "https://www.youtube.com/watch?v=mvVWRSWr5x8",
      "thumb": "https://i.ytimg.com/vi/mvVWRSWr5x8/mqdefault.jpg",
      "date": "2026-10-16"
-    },
-    {
-     "title": "Why Native English Speakers Talk So Fast (And How to Understand Them) | English Podcast (B1–B2)",
-     "url": "https://www.youtube.com/watch?v=qmhIsgRE-Yg",
-     "thumb": "https://i.ytimg.com/vi/qmhIsgRE-Yg/mqdefault.jpg",
-     "date": "2026-10-16"
     }
    ],
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "error": null
   }
  ]
 }
