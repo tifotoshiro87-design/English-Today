@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18 13:22",
+ "fetched_at": "2026-10-18 19:20",
  "channels": [
   {
    "key": "unleashed",
@@ -19,7 +19,7 @@
      "date": "2026-10-14"
     }
    ],
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "error": null
   },
   {
    "key": "basic",
@@ -39,7 +39,7 @@
      "date": "2026-10-08"
     }
    ],
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "error": null
   },
   {
    "key": "speakupp",
@@ -47,19 +47,19 @@
    "id": "UCsyiT4GvZMaWzUJtNLsXLjQ",
    "items": [
     {
+     "title": "How to Speak Better at Work | Easy English Podcast | B1–B2 Listening Practice",
+     "url": "https://www.youtube.com/watch?v=uACn1sFAJR8",
+     "thumb": "https://i.ytimg.com/vi/uACn1sFAJR8/mqdefault.jpg",
+     "date": "2026-10-18"
+    },
+    {
      "title": "How to Manage Your Time and Stop Wasting It | English Podcast (B1–B2)",
      "url": "https://www.youtube.com/watch?v=XzJBY0aFmZ8",
      "thumb": "https://i.ytimg.com/vi/XzJBY0aFmZ8/mqdefault.jpg",
      "date": "2026-10-18"
-    },
-    {
-     "title": "Why Everyone Uses Subtitles Now (And What It Means for Your English) | English Podcast B1–B2",
-     "url": "https://www.youtube.com/watch?v=ynXbZbdm35g",
-     "thumb": "https://i.ytimg.com/vi/ynXbZbdm35g/mqdefault.jpg",
-     "date": "2026-10-17"
     }
    ],
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "error": null
   }
  ]
 }
