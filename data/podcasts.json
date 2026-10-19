@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19 13:32",
+ "fetched_at": "2026-10-19 19:30",
  "channels": [
   {
    "key": "unleashed",
@@ -19,7 +19,7 @@
      "date": "2026-10-14"
     }
    ],
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "error": null
   },
   {
    "key": "basic",
@@ -39,7 +39,7 @@
      "date": "2026-10-08"
     }
    ],
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "error": null
   },
   {
    "key": "speakupp",
@@ -47,19 +47,19 @@
    "id": "UCsyiT4GvZMaWzUJtNLsXLjQ",
    "items": [
     {
+     "title": "Where to Put Your Money Now | Easy English Podcast | B1–B2 Listening Practice",
+     "url": "https://www.youtube.com/watch?v=aqeCm9P5siU",
+     "thumb": "https://i.ytimg.com/vi/aqeCm9P5siU/mqdefault.jpg",
+     "date": "2026-10-19"
+    },
+    {
      "title": "How to Become IMPOSSIBLE to Ignore | Build Charisma & Attract People | English Podcast (B1–B2)",
      "url": "https://www.youtube.com/watch?v=Cr_fpIUQfPo",
      "thumb": "https://i.ytimg.com/vi/Cr_fpIUQfPo/mqdefault.jpg",
      "date": "2026-10-18"
-    },
-    {
-     "title": "How to Speak Better at Work | Easy English Podcast | B1–B2 Listening Practice",
-     "url": "https://www.youtube.com/watch?v=uACn1sFAJR8",
-     "thumb": "https://i.ytimg.com/vi/uACn1sFAJR8/mqdefault.jpg",
-     "date": "2026-10-18"
     }
    ],
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "error": null
   }
  ]
 }
