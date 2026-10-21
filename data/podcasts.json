@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21 19:28",
+ "fetched_at": "2026-10-22 01:25",
  "channels": [
   {
    "key": "unleashed",
@@ -7,16 +7,16 @@
    "id": "UCKRp9QaI8QAzKUWp8nU0uhQ",
    "items": [
     {
+     "title": "Learn English with Podcast: How to Use The English You Know",
+     "url": "https://www.youtube.com/watch?v=Q6oGRq2eYdU",
+     "thumb": "https://i.ytimg.com/vi/Q6oGRq2eYdU/mqdefault.jpg",
+     "date": "2026-10-21"
+    },
+    {
      "title": "Learn English Through Stories | Slow English Podcast for Intermediate Learners (B1–B2)",
      "url": "https://www.youtube.com/watch?v=itGTlj_XuCQ",
      "thumb": "https://i.ytimg.com/vi/itGTlj_XuCQ/mqdefault.jpg",
      "date": "2026-10-20"
-    },
-    {
-     "title": "Learn English with Podcasts | Easy Stories for Shadowing and Listening Practice | Slow English",
-     "url": "https://www.youtube.com/watch?v=e-cmM0IZRAQ",
-     "thumb": "https://i.ytimg.com/vi/e-cmM0IZRAQ/mqdefault.jpg",
-     "date": "2026-10-19"
     }
    ],
    "error": null
