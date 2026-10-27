@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27 10:56",
+ "fetched_at": "2026-10-27 18:41",
  "channels": [
   {
    "key": "unleashed",
@@ -19,7 +19,7 @@
      "date": "2026-10-20"
     }
    ],
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "error": null
   },
   {
    "key": "basic",
@@ -39,7 +39,7 @@
      "date": "2026-10-08"
     }
    ],
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "error": null
   },
   {
    "key": "speakupp",
@@ -47,19 +47,19 @@
    "id": "UCsyiT4GvZMaWzUJtNLsXLjQ",
    "items": [
     {
+     "title": "It's Never Too Late to Change Your Life | English Podcast (B1–B2)",
+     "url": "https://www.youtube.com/watch?v=JWHRo6Y4KxY",
+     "thumb": "https://i.ytimg.com/vi/JWHRo6Y4KxY/mqdefault.jpg",
+     "date": "2026-10-26"
+    },
+    {
      "title": "Choose Yourself : Stop Pleasing Everyone | English Listening Practice ( Real English Conversation )",
      "url": "https://www.youtube.com/watch?v=Z-RvryesmY8",
      "thumb": "https://i.ytimg.com/vi/Z-RvryesmY8/mqdefault.jpg",
      "date": "2026-10-26"
-    },
-    {
-     "title": "How to Build English Sentences Quickly | 5 Simple Steps | English for Beginners",
-     "url": "https://www.youtube.com/watch?v=ruVRic5WI4c",
-     "thumb": "https://i.ytimg.com/vi/ruVRic5WI4c/mqdefault.jpg",
-     "date": "2026-10-24"
     }
    ],
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "error": null
   }
  ]
 }
