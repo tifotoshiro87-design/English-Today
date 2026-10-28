@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28 11:18",
+ "fetched_at": "2026-10-28 19:13",
  "channels": [
   {
    "key": "unleashed",
@@ -13,13 +13,13 @@
      "date": "2026-10-21"
     },
     {
-     "title": "Learn English Through Stories | Slow English Podcast for Intermediate Learners (B1–B2)",
-     "url": "https://www.youtube.com/watch?v=itGTlj_XuCQ",
-     "thumb": "https://i.ytimg.com/vi/itGTlj_XuCQ/mqdefault.jpg",
-     "date": "2026-10-20"
+     "title": "How to Make Steady Progress in English | 10 Simple Learning Tips",
+     "url": "https://www.youtube.com/watch?v=-w424PYrysc",
+     "thumb": "https://i.ytimg.com/vi/-w424PYrysc/mqdefault.jpg",
+     "date": "2026-10-15"
     }
    ],
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "error": null
   },
   {
    "key": "basic",
@@ -39,7 +39,7 @@
      "date": "2026-10-08"
     }
    ],
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "error": null
   },
   {
    "key": "speakupp",
@@ -59,7 +59,7 @@
      "date": "2026-10-26"
     }
    ],
-   "error": "HTTPError: HTTP Error 500: Internal Server Error"
+   "error": null
   }
  ]
 }
