@@ -43,7 +43,7 @@ for l in new:
 json.dump(meta, open(R/"data/meta.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 tot = {}
 for f in meta["files"]:
-    lv = f.split("-")[0]; tot[lv] = tot.get(lv, 0) + len(json.load(open(R/f"data/lessons/{f}.json", encoding="utf-8")))
+    lv = f.rsplit("-", 1)[0]; tot[lv] = tot.get(lv, 0) + len(json.load(open(R/f"data/lessons/{f}.json", encoding="utf-8")))
 with open(R/"CAPNHAT.md", "a", encoding="utf-8") as fh:
     fh.write(f"- {datetime.date.today()}: them {', '.join(touched)} -> tong {tot}\n")
 print("OK", touched, tot)

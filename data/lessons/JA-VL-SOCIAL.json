@@ -1,0 +1,303 @@
+[
+ {
+  "id": "JA-VL-SOCIAL-001",
+  "topic": "SOCIAL",
+  "n": 1,
+  "title": "はじめまして",
+  "titleVi": "Chào hỏi và tự giới thiệu",
+  "level": "JA-VL",
+  "passage": [
+   {
+    "en": "はじめまして。",
+    "rd": "Hajimemashite.",
+    "vi": "Rất vui được gặp bạn."
+   },
+   {
+    "en": "わたしは田中{たなか}です。",
+    "rd": "Watashi wa Tanaka desu.",
+    "vi": "Tôi là Tanaka."
+   },
+   {
+    "en": "日本人{にほんじん}です。",
+    "rd": "Nihonjin desu.",
+    "vi": "Tôi là người Nhật."
+   },
+   {
+    "en": "会社員{かいしゃいん}です。",
+    "rd": "Kaishain desu.",
+    "vi": "Tôi là nhân viên công ty."
+   },
+   {
+    "en": "どうぞ よろしく おねがいします。",
+    "rd": "Dōzo yoroshiku onegai shimasu.",
+    "vi": "Rất mong được giúp đỡ."
+   }
+  ],
+  "dialogue": [
+   {
+    "who": "たなか",
+    "g": "m",
+    "en": "おはようございます。",
+    "rd": "Ohayō gozaimasu.",
+    "vi": "Chào buổi sáng."
+   },
+   {
+    "who": "マイ",
+    "g": "f",
+    "en": "おはようございます。はじめまして。",
+    "rd": "Ohayō gozaimasu. Hajimemashite.",
+    "vi": "Chào buổi sáng. Rất vui được gặp anh."
+   },
+   {
+    "who": "たなか",
+    "g": "m",
+    "en": "はじめまして。田中{たなか}です。",
+    "rd": "Hajimemashite. Tanaka desu.",
+    "vi": "Rất vui được gặp. Tôi là Tanaka."
+   },
+   {
+    "who": "マイ",
+    "g": "f",
+    "en": "わたしはマイです。ベトナム人{じん}です。",
+    "rd": "Watashi wa Mai desu. Betonamujin desu.",
+    "vi": "Tôi là Mai. Tôi là người Việt Nam."
+   },
+   {
+    "who": "たなか",
+    "g": "m",
+    "en": "ベトナムですか。いいですね。",
+    "rd": "Betonamu desu ka. Ii desu ne.",
+    "vi": "Việt Nam à? Hay quá nhỉ."
+   },
+   {
+    "who": "マイ",
+    "g": "f",
+    "en": "ありがとうございます。どうぞ よろしく おねがいします。",
+    "rd": "Arigatō gozaimasu. Dōzo yoroshiku onegai shimasu.",
+    "vi": "Cảm ơn anh. Rất mong được giúp đỡ."
+   },
+   {
+    "who": "たなか",
+    "g": "m",
+    "en": "こちらこそ、よろしく おねがいします。",
+    "rd": "Kochira koso, yoroshiku onegai shimasu.",
+    "vi": "Tôi cũng vậy, rất mong được giúp đỡ."
+   },
+   {
+    "who": "マイ",
+    "g": "f",
+    "en": "さようなら。",
+    "rd": "Sayōnara.",
+    "vi": "Tạm biệt."
+   },
+   {
+    "who": "たなか",
+    "g": "m",
+    "en": "さようなら。",
+    "rd": "Sayōnara.",
+    "vi": "Tạm biệt."
+   }
+  ],
+  "vocab": [
+   {
+    "w": "はじめまして",
+    "f": [
+     "はじめまして"
+    ],
+    "pos": "n",
+    "ipa": "hajimemashite",
+    "vi": "lời chào khi gặp lần đầu",
+    "ex": "はじめまして。マイです。",
+    "exVi": "Rất vui được gặp. Tôi là Mai."
+   },
+   {
+    "w": "わたし",
+    "f": [
+     "わたし"
+    ],
+    "pos": "n",
+    "ipa": "watashi",
+    "vi": "tôi",
+    "ex": "わたしは学生です。",
+    "exVi": "Tôi là học sinh."
+   },
+   {
+    "w": "日本人",
+    "f": [
+     "日本人"
+    ],
+    "pos": "n",
+    "ipa": "にほんじん · nihonjin",
+    "vi": "người Nhật",
+    "ex": "田中さんは日本人です。",
+    "exVi": "Anh Tanaka là người Nhật."
+   },
+   {
+    "w": "会社員",
+    "f": [
+     "会社員"
+    ],
+    "pos": "n",
+    "ipa": "かいしゃいん · kaishain",
+    "vi": "nhân viên công ty",
+    "ex": "兄は会社員です。",
+    "exVi": "Anh trai tôi là nhân viên công ty."
+   },
+   {
+    "w": "どうぞ",
+    "f": [
+     "どうぞ"
+    ],
+    "pos": "adv",
+    "ipa": "dōzo",
+    "vi": "xin mời, xin hãy",
+    "ex": "どうぞ よろしく。",
+    "exVi": "Mong được giúp đỡ."
+   },
+   {
+    "w": "よろしく",
+    "f": [
+     "よろしく"
+    ],
+    "pos": "adv",
+    "ipa": "yoroshiku",
+    "vi": "mong được giúp đỡ",
+    "ex": "よろしく おねがいします。",
+    "exVi": "Rất mong được giúp đỡ."
+   }
+  ],
+  "grammar": [
+   {
+    "title": "Câu khẳng định: A は B です",
+    "formula": "A + は + B + です",
+    "use": "Nói \"A là B\". Chữ は ở đây đọc là \"wa\". です làm câu lịch sự.",
+    "examples": [
+     {
+      "en": "わたしはマイです。",
+      "vi": "Tôi là Mai."
+     },
+     {
+      "en": "田中さんは会社員です。",
+      "vi": "Anh Tanaka là nhân viên công ty."
+     }
+    ]
+   },
+   {
+    "title": "Câu hỏi: 〜ですか",
+    "formula": "câu khẳng định + か",
+    "use": "Thêm か vào cuối câu để hỏi, không cần dấu chấm hỏi.",
+    "examples": [
+     {
+      "en": "日本人ですか。",
+      "vi": "Bạn là người Nhật à?"
+     },
+     {
+      "en": "ベトナムですか。",
+      "vi": "Là Việt Nam à?"
+     }
+    ]
+   }
+  ],
+  "phrases": [
+   {
+    "p": "おはようございます",
+    "vi": "chào buổi sáng",
+    "ex": "おはようございます。きょうもがんばりましょう。",
+    "exVi": "Chào buổi sáng. Hôm nay cũng cố gắng nhé.",
+    "ctx": "Lịch sự, dùng buổi sáng; với bạn thân nói おはよう"
+   },
+   {
+    "p": "はじめまして",
+    "vi": "rất vui được gặp (lần đầu)",
+    "ex": "はじめまして。どうぞ よろしく。",
+    "exVi": "Rất vui được gặp, mong được giúp đỡ.",
+    "ctx": "Chỉ dùng lần gặp đầu tiên"
+   },
+   {
+    "p": "よろしく おねがいします",
+    "vi": "mong được giúp đỡ",
+    "ex": "これから、よろしく おねがいします。",
+    "exVi": "Từ nay mong được giúp đỡ.",
+    "ctx": "Dùng khi mới quen, nhờ vả, kết thúc tự giới thiệu"
+   },
+   {
+    "p": "ありがとうございます",
+    "vi": "cảm ơn (lịch sự)",
+    "ex": "どうも ありがとうございます。",
+    "exVi": "Cảm ơn nhiều.",
+    "ctx": "Lịch sự, dùng với người lạ hoặc cấp trên"
+   },
+   {
+    "p": "すみません",
+    "vi": "xin lỗi / xin phép",
+    "ex": "すみません、ちょっと いいですか。",
+    "exVi": "Xin lỗi, cho tôi hỏi một chút được không?",
+    "ctx": "Dùng để gọi người, xin lỗi nhẹ hoặc cảm ơn kín đáo"
+   },
+   {
+    "p": "さようなら",
+    "vi": "tạm biệt",
+    "ex": "さようなら。また あした。",
+    "exVi": "Tạm biệt. Mai gặp lại.",
+    "ctx": "Khá trang trọng; với bạn bè hay nói じゃあね"
+   }
+  ],
+  "quiz": [
+   {
+    "title": "Làm quen",
+    "sentences": [
+     {
+      "t": "はじめまして。わたしは田中(1)___。",
+      "o": [
+       "です",
+       "ですか",
+       "は"
+      ],
+      "a": 0,
+      "why": "です đặt cuối câu để nói \"là\" một cách lịch sự."
+     },
+     {
+      "t": "わたし(1)___マイです。",
+      "o": [
+       "は",
+       "です",
+       "か"
+      ],
+      "a": 0,
+      "why": "は (đọc wa) đánh dấu chủ đề của câu."
+     },
+     {
+      "t": "A: おはようございます。 B: (1)___。",
+      "o": [
+       "おはようございます",
+       "さようなら",
+       "ありがとう"
+      ],
+      "a": 0,
+      "why": "Được chào buổi sáng thì đáp lại bằng chính lời chào đó."
+     },
+     {
+      "t": "どうぞ (1)___ おねがいします。",
+      "o": [
+       "よろしく",
+       "さようなら",
+       "おはよう"
+      ],
+      "a": 0,
+      "why": "どうぞ よろしく おねがいします là câu cố định khi mới quen."
+     },
+     {
+      "t": "A: マイさんはベトナム人(1)___ B: はい、そうです。",
+      "o": [
+       "ですか",
+       "です",
+       "でした"
+      ],
+      "a": 0,
+      "why": "A đang hỏi nên cuối câu thêm か."
+     }
+    ]
+   }
+  ]
+ }
+]

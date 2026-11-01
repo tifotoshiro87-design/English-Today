@@ -4,17 +4,92 @@
   {
    "key": "B1",
    "badge": "B1",
-   "name": "Trung bình"
+   "name": "Trung bình",
+   "lang": "en"
   },
   {
    "key": "B2",
    "badge": "B2",
-   "name": "Khó"
+   "name": "Khó",
+   "lang": "en"
   },
   {
    "key": "C1",
    "badge": "C1",
-   "name": "Nâng cao"
+   "name": "Nâng cao",
+   "lang": "en"
+  },
+  {
+   "key": "JA-VL",
+   "badge": "VL",
+   "name": "Vỡ lòng",
+   "lang": "ja"
+  },
+  {
+   "key": "JA-TB",
+   "badge": "TB",
+   "name": "Trung bình",
+   "lang": "ja"
+  },
+  {
+   "key": "ZH-VL",
+   "badge": "VL",
+   "name": "Vỡ lòng",
+   "lang": "zh"
+  },
+  {
+   "key": "ZH-TB",
+   "badge": "TB",
+   "name": "Trung bình",
+   "lang": "zh"
+  },
+  {
+   "key": "KO-VL",
+   "badge": "VL",
+   "name": "Vỡ lòng",
+   "lang": "ko"
+  },
+  {
+   "key": "KO-TB",
+   "badge": "TB",
+   "name": "Trung bình",
+   "lang": "ko"
+  },
+  {
+   "key": "FR-VL",
+   "badge": "VL",
+   "name": "Vỡ lòng",
+   "lang": "fr"
+  },
+  {
+   "key": "FR-TB",
+   "badge": "TB",
+   "name": "Trung bình",
+   "lang": "fr"
+  },
+  {
+   "key": "ES-VL",
+   "badge": "VL",
+   "name": "Vỡ lòng",
+   "lang": "es"
+  },
+  {
+   "key": "ES-TB",
+   "badge": "TB",
+   "name": "Trung bình",
+   "lang": "es"
+  },
+  {
+   "key": "RU-VL",
+   "badge": "VL",
+   "name": "Vỡ lòng",
+   "lang": "ru"
+  },
+  {
+   "key": "RU-TB",
+   "badge": "TB",
+   "name": "Trung bình",
+   "lang": "ru"
   }
  ],
  "topics": [
@@ -61,6 +136,61 @@
   "B1-PHRASES",
   "B1-SCIENCE",
   "B1-SOCIAL",
-  "B1-SPORTS"
+  "B1-SPORTS",
+  "JA-VL-SOCIAL"
+ ],
+ "langs": [
+  {
+   "code": "en",
+   "name": "EN",
+   "tts": "en-US",
+   "title": "Nói tiếng Anh như người bản xứ",
+   "show": true
+  },
+  {
+   "code": "ja",
+   "name": "日本語",
+   "tts": "ja-JP",
+   "title": "Học tiếng Nhật",
+   "show": true
+  },
+  {
+   "code": "zh",
+   "name": "中文",
+   "tts": "zh-CN",
+   "title": "Học tiếng Trung",
+   "show": true
+  },
+  {
+   "code": "ko",
+   "name": "한국어",
+   "tts": "ko-KR",
+   "title": "Học tiếng Hàn",
+   "show": true
+  },
+  {
+   "code": "fr",
+   "name": "Français",
+   "tts": "fr-FR",
+   "title": "Học tiếng Pháp",
+   "show": true,
+   "bound": true
+  },
+  {
+   "code": "es",
+   "name": "Español",
+   "tts": "es-ES",
+   "title": "Học tiếng Tây Ban Nha",
+   "show": true,
+   "bound": true
+  },
+  {
+   "code": "ru",
+   "name": "Русский",
+   "tts": "ru-RU",
+   "title": "Học tiếng Nga",
+   "show": true,
+   "bound": true
+  }
  ]
 }
