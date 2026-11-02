@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02 11:42",
+ "fetched_at": "2026-11-02 21:53",
  "channels": [
   {
    "key": "unleashed",
@@ -19,7 +19,7 @@
      "date": "2026-10-15"
     }
    ],
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "error": null
   },
   {
    "key": "basic",
@@ -59,7 +59,7 @@
      "date": "2026-10-30"
     }
    ],
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "error": null
   }
  ]
 }
