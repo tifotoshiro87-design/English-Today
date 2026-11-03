@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03 07:36",
+ "fetched_at": "2026-11-03 20:43",
  "channels": [
   {
    "key": "unleashed",
@@ -7,19 +7,19 @@
    "id": "UCKRp9QaI8QAzKUWp8nU0uhQ",
    "items": [
     {
+     "title": "How to Talk About Feeling Tired in English | 6 Useful Words & Phrases | English Podcast for Learners",
+     "url": "https://www.youtube.com/watch?v=zUo6Ef49AX0",
+     "thumb": "https://i.ytimg.com/vi/zUo6Ef49AX0/mqdefault.jpg",
+     "date": "2026-11-02"
+    },
+    {
      "title": "Learn English with Podcast: How to Use The English You Know",
      "url": "https://www.youtube.com/watch?v=Q6oGRq2eYdU",
      "thumb": "https://i.ytimg.com/vi/Q6oGRq2eYdU/mqdefault.jpg",
      "date": "2026-10-21"
-    },
-    {
-     "title": "How to Make Steady Progress in English | 10 Simple Learning Tips",
-     "url": "https://www.youtube.com/watch?v=-w424PYrysc",
-     "thumb": "https://i.ytimg.com/vi/-w424PYrysc/mqdefault.jpg",
-     "date": "2026-10-15"
     }
    ],
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "error": null
   },
   {
    "key": "basic",
@@ -39,7 +39,7 @@
      "date": "2026-10-08"
     }
    ],
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "error": null
   },
   {
    "key": "speakupp",
@@ -47,19 +47,19 @@
    "id": "UCsyiT4GvZMaWzUJtNLsXLjQ",
    "items": [
     {
-     "title": "Change Your Thinking, Change Your Life | 50 Minutes of English Listening Practice (B1–B2)",
-     "url": "https://www.youtube.com/watch?v=djL1SCmy8uA",
-     "thumb": "https://i.ytimg.com/vi/djL1SCmy8uA/mqdefault.jpg",
-     "date": "2026-11-01"
+     "title": "Day 1: Speak English in 30 Days | 99 Sentences for Shadowing Practice | English Podcast",
+     "url": "https://www.youtube.com/watch?v=vLyw4UtJQ2s",
+     "thumb": "https://i.ytimg.com/vi/vLyw4UtJQ2s/mqdefault.jpg",
+     "date": "2026-11-03"
     },
     {
-     "title": "Stop Wasting Your Time | English Listening Practice (B1–B2)",
-     "url": "https://www.youtube.com/watch?v=YSrdSsDA-uY",
-     "thumb": "https://i.ytimg.com/vi/YSrdSsDA-uY/mqdefault.jpg",
-     "date": "2026-10-30"
+     "title": "60 Minutes of Real English Conversation | Improve Your Listening & Fluency (B1–B2)",
+     "url": "https://www.youtube.com/watch?v=VY1T7xvZ7vs",
+     "thumb": "https://i.ytimg.com/vi/VY1T7xvZ7vs/mqdefault.jpg",
+     "date": "2026-11-02"
     }
    ],
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "error": null
   }
  ]
 }
