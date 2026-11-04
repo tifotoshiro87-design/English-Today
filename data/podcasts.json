@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04 12:02",
+ "fetched_at": "2026-11-04 20:51",
  "channels": [
   {
    "key": "unleashed",
@@ -19,7 +19,7 @@
      "date": "2026-10-21"
     }
    ],
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "error": null
   },
   {
    "key": "basic",
@@ -39,7 +39,7 @@
      "date": "2026-10-08"
     }
    ],
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "error": null
   },
   {
    "key": "speakupp",
@@ -47,19 +47,19 @@
    "id": "UCsyiT4GvZMaWzUJtNLsXLjQ",
    "items": [
     {
+     "title": "Day 3 of How to Speak English in 30 Days! 99 Sentences Shadowing Practice | English Podcast",
+     "url": "https://www.youtube.com/watch?v=InnMkLZI_38",
+     "thumb": "https://i.ytimg.com/vi/InnMkLZI_38/mqdefault.jpg",
+     "date": "2026-11-04"
+    },
+    {
      "title": "Day 2 : Speak English in 30 Days! 99 Sentences Shadowing Practice | English Podcast",
      "url": "https://www.youtube.com/watch?v=H5zywj8WPOU",
      "thumb": "https://i.ytimg.com/vi/H5zywj8WPOU/mqdefault.jpg",
      "date": "2026-11-03"
-    },
-    {
-     "title": "Day 1: Speak English in 30 Days | 99 Sentences for Shadowing Practice | English Podcast",
-     "url": "https://www.youtube.com/watch?v=vLyw4UtJQ2s",
-     "thumb": "https://i.ytimg.com/vi/vLyw4UtJQ2s/mqdefault.jpg",
-     "date": "2026-11-03"
     }
    ],
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "error": null
   }
  ]
 }
