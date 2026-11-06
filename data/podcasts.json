@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06 06:19",
+ "fetched_at": "2026-11-06 12:24",
  "channels": [
   {
    "key": "unleashed",
@@ -59,7 +59,7 @@
      "date": "2026-11-03"
     }
    ],
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "error": "HTTPError: HTTP Error 500: Internal Server Error"
   }
  ]
 }
